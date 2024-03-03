@@ -3,7 +3,7 @@ import './App.css';
 import Card from './Card';
 import Navbar from './Navbar';
 
-function App() {
+function App()=()=> {
   return (
       <div>
         <div className="App">
