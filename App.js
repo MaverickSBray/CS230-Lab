@@ -5,7 +5,7 @@ import Navbar from './Navbar';
 
 function App() {
   return (
-      <>
+      <div>
         <div className="App">
           <h1>CS 230L</h1>
           <h2>Section - 01</h2>
@@ -17,7 +17,7 @@ function App() {
           <Card title="Card 02" content="Some quick example text to build on the card title and make up the bulk of the card's content." />
           <Card title="Card 03" content="Some quick example text to build on the card title and make up the bulk of the card's content." />
         </div>
-      </>
+      </div>
   );
 }
 
